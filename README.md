@@ -1,4 +1,8 @@
-# Hi there, I'm Aditi Shastri 👋
+<h1 align="center">Hi 👋, I'm Aditi Shastri</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Final-Year+AI+%26+Data+Science+Student;Aspiring+Data+Analyst;Passionate+about+Data+Analytics;Always+Learning+Something+New!" alt="Typing SVG" />
+</p>
 
 🎓 Final-year B.Tech Student in Artificial Intelligence & Data Science
 
@@ -12,7 +16,48 @@
 - Data Analytics
 - Data Structures & Algorithms
 
-📫 Connect with me:
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,mongodb,git,github,vscode" />
+</p>
+
+### 📊 Tools
+
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AditiShastri13&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiShastri13&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🚀 Featured Projects
+
+🌐 **Portfolio Website**
+
+🧬 **GenoScope – Genetic Data Analysis System**
+
+📊 **Power BI Dashboard**
+
+🗄️ **SQL Recipe Database Project**
+
+🤖 **Machine Learning Projects**
+
+📫 Let's Connect:
 - 🌐 Portfolio: https://aditishastri13.github.io/Portfolio/
-- 💼 LinkedIn: www.linkedin.com/in/aditi-shastri-4b5349292
+- 💼 LinkedIn: https://linkedin.com/in/aditi-shastri-4b5349292
 - 📧 Email: aditishastri2005@gmail.com
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AditiShastri13&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
