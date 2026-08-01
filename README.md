@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Aditi Shastri 👋
 
-<!--
-**AditiShastri13/AditiShastri13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech Student in Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about transforming data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy building data-driven projects, exploring web development, and continuously learning new technologies.
+
+🌱 Currently learning:
+- Advanced SQL
+- Power BI
+- Data Analytics
+- Data Structures & Algorithms
+
+📫 Connect with me:
+- 🌐 Portfolio: https://aditishastri13.github.io/Portfolio/
+- 💼 LinkedIn: www.linkedin.com/in/aditi-shastri-4b5349292
+- 📧 Email: aditishastri2005@gmail.com
